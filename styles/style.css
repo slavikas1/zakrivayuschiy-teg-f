@@ -253,7 +253,7 @@
   position: relative;
   z-index: 10;
   font-size: 14px;
-  font-family: var(--accent-font-family);
+  font-family: var(--accent-font-family), fantasy;
   font-weight: var(--main-font-weight);
   line-height: 1.5;
   mix-blend-mode: difference;
@@ -336,7 +336,7 @@
 
 .dialog__text {
   font-size: 14px;
-  font-family: var(--accent-font-family);
+  font-family: var(--accent-font-family), fantasy;
   font-weight: var(--main-font-weight);
   line-height: 1.5;
 }
